@@ -1,0 +1,27 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 713px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Bodoni Moda";
+  margin-bottom: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.u-section-1 .u-image-1 {
+  width: 510px;
+  height: 597px;
+  margin: 21px auto 32px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 514px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 398px;
+  }
+}
