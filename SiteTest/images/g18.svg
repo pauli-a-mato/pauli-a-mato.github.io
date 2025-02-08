@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="97.383743mm"
+   height="51.223358mm"
+   viewBox="0 0 97.383743 51.223358"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="test.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.034;stroke-dasharray:none"
+         id="rect9"
+         width="14.428199"
+         height="7.445375"
+         x="165.98642"
+         y="146.27754" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.027079;stroke-dasharray:none"
+         id="rect14"
+         width="1.2800541"
+         height="1.7455283"
+         x="84.331284"
+         y="95.685097" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-95.702626,-102.22439)">
+    <g
+       id="g17"
+       inkscape:export-filename="g17.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g18">
+        <text
+           font-family="'Cochocib Script Latin Pro', 'Cochocib Script Latin Pro_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="48.4188px"
+           id="text5-1"
+           x="94.314751"
+           y="137.84792"
+           style="stroke-width:0.264583"
+           inkscape:export-filename="pekne l.svg"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">&amp;</text>
+        <text
+           font-family="'Bodoni 72', 'Bodoni 72_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="21.1667px"
+           id="text9-2"
+           x="106.28688"
+           y="117.21042"
+           style="stroke-width:0.264583">PAULI</text>
+        <text
+           font-family="'Bodoni 72', 'Bodoni 72_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="7.9375px"
+           id="text10-8"
+           x="165.43211"
+           y="117.21042"
+           style="stroke-width:0.264583">Holotová</text>
+        <text
+           font-family="'Bodoni 72', 'Bodoni 72_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="21.1667px"
+           id="text11-3"
+           x="106.28688"
+           y="153.19376"
+           style="stroke-width:0.264583">MAŤO</text>
+        <text
+           font-family="'Bodoni 72', 'Bodoni 72_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="7.9375px"
+           id="text12-0"
+           x="165.59747"
+           y="153.19376"
+           style="white-space:pre;inline-size:27.9838;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+           clip-path="url(#clipPath8)"
+           xml:space="preserve"><tspan
+             x="165.59747"
+             y="153.19376"
+             id="tspan2"><tspan
+               style="font-family:'Bodoni 72';-inkscape-font-specification:'Bodoni 72, '"
+               id="tspan1">Sahuľ</tspan></tspan></text>
+        <path
+           style="font-size:6.08401px;line-height:4.09672px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';text-align:center;letter-spacing:0.064167px;text-anchor:middle;stroke:#000000;stroke-width:0"
+           d="m 84.247084,95.799616 q -0.0505,0.870418 -0.0505,1.574476 v 1.526944 q 0,0.909036 0.03862,1.030835 0.02079,0.06238 0.196067,0.08021 l 0.25251,0.0267 v 0.1723 q -0.323807,-0.0208 -0.617907,-0.0208 -0.326778,0 -0.855564,0.0208 v -0.1723 l 0.255481,-0.0208 q 0.16933,-0.0149 0.193096,-0.08615 0.03862,-0.115857 0.03862,-1.054601 v -1.518032 l -0.003,-0.570376 -0.0089,-0.389163 q 0,-0.145564 -0.03268,-0.178242 -0.04753,-0.04753 -0.199038,-0.04753 h -0.243598 v -0.178243 q 0.617907,-0.05644 0.986275,-0.231715 z m 1.146694,-0.06239 0.07724,0.08021 q -0.273305,0.683262 -0.802091,1.336818 l -0.225774,0.115858 -0.08021,-0.08615 q 0.427782,-0.638702 0.487196,-1.280375 0.311924,-0.0713 0.54364,-0.16636 z"
+           id="text8-8"
+           aria-label="ľ"
+           clip-path="url(#clipPath12)"
+           transform="matrix(1.2555859,0,0,1.2555859,76.487829,27.419769)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.86395px;line-height:5.29525px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';text-align:center;letter-spacing:0.0829396px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+           x="181.4166"
+           y="153.19376"
+           id="text16"><tspan
+             sodipodi:role="line"
+             id="tspan16"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bodoni 72';-inkscape-font-specification:'Bodoni 72, ';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+             x="181.45807"
+             y="153.19376">l</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
