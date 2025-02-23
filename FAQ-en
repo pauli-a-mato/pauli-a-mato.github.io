@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="sk-SK"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <title>FAQ</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="FAQ.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 7.3.1, nicepage.com">
+    
+    
+    
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bodoni+Moda:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "Site1",
+		"logo": "images/logo.png"
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="FAQ">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="website">
+  <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+  <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="ena"><header class="u-clearfix u-header" id="header" data-animation-name="" data-animation-duration="0" data-animation-delay="0" data-animation-direction=""><div class="u-clearfix u-sheet u-sheet-1">
+        <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
+          <div class="menu-collapse u-custom-font" style="font-size: 1rem; letter-spacing: 0px; font-family: &quot;Bodoni Moda&quot;; font-weight: 700;">
+            <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-top-bottom-menu-spacing u-hamburger-link u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xlink:href="#menu-hamburger"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-custom-font u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="./" style="padding: 10px 20px;">Úvod</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="program.html" style="padding: 10px 20px;">Program</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="info.html" style="padding: 10px 20px;">Ďalšie informácie</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="FAQ.html" style="padding: 10px 20px;">Časté otázky</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="./">Úvod</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="program.html">Program</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="info.html">Ďalšie informácie</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="FAQ.html">Časté otázky</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+        <a href="" class="u-align-center u-image u-logo u-image-1" data-image-width="720" data-image-height="720">
+          <img src="images/logo.png" class="u-logo-image u-logo-image-1">
+        </a>
+        <div class="u-language u-language-content-icon u-language-layout-icons u-spacing-10 u-language-1">
+          <a class="u-language-top-url u-language-url" data-lang-text="Slovak" href="./FAQ.html" data-language="sk">
+            <span class="u-file-icon u-icon u-language-en u-language-icon u-icon-1"><img src="images/197592.png" alt=""></span>
+          </a>
+          <a class="u-language-top-url u-language-url" data-lang-text="English" href="./FAQ-en.html" data-language="en">
+            <span class="u-file-icon u-icon u-language-ena u-language-icon u-icon-2"><img src="images/197374.png" alt=""></span>
+          </a>
+        </div>
+        <h1 class="u-align-center u-custom-font u-text u-text-default u-text-1">Pauli &amp; Maťo</h1>
+        <h2 class="u-align-center u-custom-font u-text u-text-default u-text-2">Otázky, ktoré by Vám mohli napadnúť</h2>
+        <h2 class="u-align-center u-custom-font u-text u-text-default u-text-2">(a my sme sa ich pokúsili zodpovedať)</h2>
+      </div></header>
+    <section class="u-clearfix u-section-1" id="block-1">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h3 class="u-align-center u-custom-font u-text u-text-default u-text-1">Organizčné otázky (Sekcia 1) </h3>
+        <!-- <p class="u-align-center u-custom-font u-text u-text-default u-text-2">text vymenit za dropdown</p> -->
+      <div class="faq-section">
+<!--<h3>Otázky, ktoré by Vám mohli napadnúť:</h3>-->
+
+<div class="faq-item">
+  <button class="faq-question">Musím prísť na svadbu?</button>
+  <div class="faq-answer">
+    <p>Hoci svadby môžu pôsobiť ako veľká spoločenská povinnosť, naša taká nie je. 
+	    Budeme sa tešiť z každého kto prijme pozvanie ale ak sa nemôžete zúčastniť alebo jednoducho nemáte náladu socializovať sa so 100 ďalšími ľuďmi, rešpektujeme to. 
+	    </p>
+	  </div>
+  <button class="faq-question">Čo ak nemôžem prísť na svadbu?</button>
+  <div class="faq-answer">
+    <p>Je nám ľúto, že nemôžete prísť, ale úplne to chápeme. Ak by ste nás radi videli mimo náš svadobný deň, vždy sa potešíme návšteve alebo spoločnému výletu. 
+	    Ak zistíte, že sa nemôžete zúčastniť po odoslaní RSVP formulára, dajte nám alebo našim najbližším prosím vedieť telefonicky alebo správou (pomôže nám to pri organizácii) Ďakujeme.</p>
+  </div> 
+<div class="faq-item">
+  <button class="faq-question">Aká je situácia s ubytovaním?</button>
+  <div class="faq-answer">
+    <p>V sekcii "Ďalšie informácie" poskytujeme zoznam ubytovaní v blízkosti miesta svadby. Ak budete potrebovať odvoz do blízkych dedín alebo do Žiliny v deň svadby, zabezpečíme ho my.</p>
+  </div>
+	<div class="faq-item">
+  <button class="faq-question">Ako sa môžem dostať na svadbu? Nemám odvoz – môžem ísť s niekým?</button>
+	<div class="faq-answer">
+    <p>V sekcii "Ďalšie informácie" nájdete naše tipy, ako sa dostať na miesto svadby. Ak by ste chceli cestovať s inými hosťami, prosím, použite kontaktné údaje a spýtajte sa našich najbližších priateľov, ktorí vám môžu pomôcť spojiť sa s ďalšími hosťami.</p>
+  </div>
+<div class="faq-item">
+  <button class="faq-question">Mám otázku, ktorá tu nie je:</button>
+  <div class="faq-answer">
+    <p>Každému z našich hostí sme poskytli kontakt na jedného z našich najdrahších priateľov, ktorý sa vám pokúsi zodpovedať Vaše ďalšie otázky!</p>
+  </div>
+</div>
+<div class="faq-item">
+  <button class="faq-question">Zahrajú mi na želanie?</button>
+  <div class="faq-answer">
+    <p> Pracujeme na svadobnom playliste, do ktorého sa budeme snažiť zakomponovať aj Vaše návrhy z RSVP formulára. Samozrejme aj na mieste bude možnosť požiadať o pieseň an želanie ale prosíme, aby ste rešpektovali našeho DJ a hudobnú atmosféru :)
+    </p>
+  </div>
+	
+</div>
+<h3 class="u-align-center u-custom-font u-text u-text-default u-text-1">Deň svadby (Často kladené otázky) </h3>
+
+<div class="faq-item">
+  <button class="faq-question">Nemôžem sa zúčastniť niektorej z častí programu (obradu/obeda/večere):</button>
+  <div class="faq-answer">
+    <p>Prosím, vyplňte svoj plánovaný príchod v RSVP formulári.</p>
+  </div>
+</div>
+
+<div class="faq-item">
+  <button class="faq-question">Svadobný dar?</button>
+  <div class="faq-answer">
+    <p>Najväčším darom pre nás je, ak sa k nám môžete pripojiť na náš svadobný deň a osláviť ho s nami. 
+	    Ak by ste nám predsa len chceli niečo darovať na začiatok nášho manželstva, zvážte príspevok do nášho fondu na svadobnú cestu alebo fondu "Ešte stále nemáme vlastné bývanie".</p>
+  </div>
+</div>
+ 
+<div class="faq-item">
+  <button class="faq-question">Je na svadbe dress-code?</button>
+  <div class="faq-answer">
+    <p>Na svadbe nemáme stanovený žiadny striktný dress-code. Budeme radi, ak sa zvládnete obliecť adekvátne ku príležitosti a na oplátku sa pokúsime vás neskladať našim výberom :).
+    Ak by ste sa chceli farebne priblížiť téme, môžete zvoliť čierne, modré alebo zelené oblečenie.</p>
+  </div>
+</div>
+	      
+<div class="faq-item">
+  <button class="faq-question">Mám alergie, som vegetarián, mám iné stravovacie obmedzenia:</button>
+  <div class="faq-answer">
+    <p>Prosím, uveďte ich v RSVP formulári.</p>
+  </div>
+</div>
+
+<div class="faq-item">
+  <button class="faq-question">Bude na svadbe fotograf?</button>
+  <div class="faq-answer">
+    <p>Áno, na svadbe bude profesionálny fotograf ako aj ďalší z našich najbližších, ktorí sa tomuto umeniu venujú. 
+	    Berte preto prosím na vedomie, že na svadbe budete aj vy fotografovaní a natáčaní. 
+	    Napriek tomu neváhajte si urobiť vlastné fotky a videá a zazdieľať ich s nami pomocou QR kódov ktoré budú dostupné na mieste. 
+	    Jedinou výnimkou je svadobný obrad - prosíme vás, aby ste sa počas obradu zdržali fotografovania a filmovania. Obrad bude zdokumentovaný profesionálmi. 
+	    Hoci si veľmi vážime vašu pomoc pri zbieraní spomienok z neskoršieho programu, krátky obrad pokryjú profesionáli, a prosíme vás, aby ste si svoje telefóny nechali v režime lietadla vo vrecku.</p>
+  </div>
+</div>
+
+<div class="faq-item">
+  <button class="faq-question">Kde nájdeme fotografie zo svadby?</button>
+  <div class="faq-answer">
+    <p>V RSVP formulári máte možnosť uviesť číslo (pre WhatsApp kontakt) alebo E-mailovú adresu. V deň svadby Vám na uvedený kontakt pošleme odkaz na zdieľaný disk, kam môžete nahrať všetko čo sa Vám podarí zdokumentovať. 
+	    Ak si neželáte uvádzať kontakt ale chcete s nami zdieľať fotky budú na mieste prítomné QR kódy s odkazom na zdieľaný disk.</p>
+  </div>
+</div>
+
+<div class="faq-item">
+  <button class="faq-question">Je plánované skupinové fotenie?</button>
+  <div class="faq-answer">
+    <p>ÁNO, skupinové fotenie prebehne (v prípade priaznivého počasia) v areáli dreveníc okolo 14:45.</p>
+  </div>
+</div>
+
+
+<div class="faq-item">
+  <button class="faq-question">Kedy prebehnú gratulácie?</button>
+  <div class="faq-answer">
+    <p>Táto časť závisí od počasia. V ideálnom prípade nastane po obrade na matrike po presune do areálu dreveníc kde bude priestor na gratulácie a spoločné fotenie. </p>
+  </div>
+</div>
+
+<div class="faq-item">
+  <button class="faq-question">Kde môžeme parkovať?</button>
+  <div class="faq-answer">
+    <p>Parkovanie počas obradu: Pred Obecným Úradom v Terchovej je dostupné parkovanie pre cca 20 áut - priamo pred úradom a na okolitej ulici. 
+	Parkovanie počas hostiny: Parkovisko s dostatočnou kapacitou sa nachádza 2 minúty pešo od miesta recepcie. Svoje autá tu môžete nechať kedykoľvek počas svadobného víkendu. Viac informácií nájdete v sekcii "Ďalšie informácie".</p>
+  </div>
+</div>
+
+
+
+
+
+<!--<div class="faq-item">
+  <button class="faq-question">Kde budú fotografie zo svadby?</buttn>
+  <div class="faq-answer">
+    <p>aní   g</p>
+  </div>
+</div>
+
+<div class="faq-item">
+  <button class="faq-question">Kde budú fotografie zo svadby?</button>
+  <div class="faq-answer">
+    <p>aní   g</p>
+  </div>
+</div>
+	      -->
+
+<div class="faq-item">
+  <button class="faq-question">Môžem si na svadbu priniesť svojho domáceho maznáčika?</button>
+  <div class="faq-answer">
+    <p>Budeme Vám vďační, ak necháte svojich domácich miláčikov doma a užijete si svadobný deň bez starosti o to, že by im nemusela chutiť svadobná torta alebo, že by im nevyhovovala hlasná hudba.</p>
+  </div>
+</div>
+
+
+</div>
+<section class="u-clearfix u-section-1" id="block-2">
+  <div class="u-clearfix u-sheet u-sheet-1">
+    <h3 class="u-align-center u-custom-font u-text u-text-default u-text-1">Ostatné otázky</h3>
+    <div class="faq-section">
+      <div class="faq-item">
+        <button class="faq-question">Čo ak sa omylom oblejem alebo zašpiním?</button>
+        <div class="faq-answer">
+          <p>Stáva sa, predýchame to.</p>
+        </div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-question">Môžem sa dostať ku sladkému aj pred krájaním torty?</button>
+        <div class="faq-answer">
+          <p>Samozrejme, po skončení obeda sa otvorí sladký bar, kde Vám budú k dispozícii koláče a sladkosti rôznych druhov.</p>
+        </div>
+	      <div class="faq-item">
+        <button class="faq-question">Môžem poslať RSVP holubom alebo dymovým signálom?</button>
+        <div class="faq-answer">
+          <p>Radi by sme prijali RSVP dymovým signálom, ale kvôli jasnosti by nám najviac vyhovovalo, aby ste vyplnili online formulár, ktorý nájdete na hlavnej stránke. Ďakujeme :)</p>
+        </div>
+	<div class="faq-item">
+        <button class="faq-question">Čo ak mi bude večer zima?</button>
+        <div class="faq-answer">
+          <p>Žiadny strach – na našej svadbe nebude nikto trpieť zimou. Na mieste budeme mať nachystané núdzové deky a teplé nápoje.</p>
+        </div>
+	<div class="faq-item">
+  <button class="faq-question">Môžem si obliecť tričko s motívom smokingu?</button>
+  <div class="faq-answer">
+    <p>Pod slávnostným oblečením si určite nepredstavujeme smokingové tričko, ale ak je toto podstatné pre Vami iniciovaný program pre ostatných hostí tak nedbáme.</p>
+  </div>
+</div>
+
+<div class="faq-item">
+  <button class="faq-question">Môžem si na svadbu priniesť vlastné občerstvenie?</button>
+  <div class="faq-answer">
+    <p>Samozrejme, akurát si toto budete musieť zjesť mimo hlavný stôl, nakoľko nemôžeme riskovať, že by Vám zvyšok hostí zjedol Vaše jedlo :)</p>
+  </div>
+</div>
+	
+      </div>
+      <!-- Add more FAQ items as needed -->
+    </div>
+  </div>
+</section>
+
+<script>
+  const faqs = document.querySelectorAll('.faq-question');
+  faqs.forEach(faq => {
+    faq.addEventListener('click', () => {
+      faq.nextElementSibling.classList.toggle('active');
+    });
+  });
+</script>
+
+<style>
+  .faq-section {
+    margin: 10px 0;
+    font-family: "Bodoni Moda", serif;
+  }
+  .faq-question {
+    background-color: #f1f1f1;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    font-family: "Bodoni Moda", serif;
+  }
+  .faq-answer {
+    display: none;
+    padding: 10px;
+    background-color: #f9f9f9;
+    font-family: "Bodoni Moda", serif;
+  }
+  .faq-answer.active {
+    display: block;
+  }
+</style>
+      </div>
+    </section>
+    
+    
+    
+    <footer class="u-align-center u-clearfix u-container-align-center u-footer u-grey-80 u-footer" id="footer"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <p class="u-custom-font u-small-text u-text u-text-variant u-text-1">Tešíme na vás<br>Made possible by Zdenko
+        </p>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <p class="u-text">
+       
+        </a>
+      </p>
+    </section>
+  
+</body></html>
