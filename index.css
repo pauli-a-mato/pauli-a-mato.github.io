@@ -142,6 +142,11 @@
     width: 720px;
     margin-right: 0;
   }
+  .u-section-1 .u-image-1 {
+    max-width: 100%;
+    min-width: 300px;
+    height: auto;
+}
 }
 
 @media (max-width: 767px) {
