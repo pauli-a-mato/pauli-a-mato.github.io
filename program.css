@@ -26,7 +26,10 @@
   }
 
   .u-section-1 .u-image-1 {
-    width: 340px;
-    height: 398px;
+    margin: 10px;
+    max-width: calc(100% - 20px);
+    height: auto;
+    object-fit: contain;
+
   }
 }
