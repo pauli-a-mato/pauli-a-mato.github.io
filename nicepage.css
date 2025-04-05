@@ -442,7 +442,7 @@ sub,
 sup {
   font-size: 75%;
   line-height: 0;
-  position: relative;
+  position: center;
   vertical-align: baseline;
 }
 sub {
